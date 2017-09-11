@@ -3,5 +3,5 @@ package er
 import "fmt"
 
 func PrintMe() {
-	fmt.PrintLn("ooh eeer")
+	fmt.Println("ooh eeer")
 }
